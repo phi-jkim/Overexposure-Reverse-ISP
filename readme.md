@@ -2,8 +2,8 @@
 
 
 <p float="center">
-  <img src="imgs/1_original.jpg" width="500" />
-  <img src="imgs/1.jpg" width="500" /> 
+  <img src="imgs/1_original.jpg" width="450" />
+  <img src="imgs/1.jpg" width="450" /> 
 </p>
 
 #### 1. Overview 
